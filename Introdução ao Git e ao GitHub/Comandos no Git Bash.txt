@@ -1,0 +1,18 @@
+Todos os comandos específicos do Git começam com git
+
+Configurando:
+git config --global user.email "email aqui"
+git config --global user.name "nome aqui"
+
+Reposítório:
+Iniciar repositório - git init
+Mover arquivos - git add * / git add . / git add nomeArquivo
+Commitar os arquivos no repositório local - git commit -m "comentário aqui"
+Conferir estado do repositório - git status
+
+*É sempre importante criar um arquivo README.md para especificar sobre o que é o projeto.
+
+Enviar commits para o GitHub
+
+adicionar link do repositório a origem - git remote add origin LinkDoRepositório
+enviar o commit para o repositório do GitHub - git push origin master/main

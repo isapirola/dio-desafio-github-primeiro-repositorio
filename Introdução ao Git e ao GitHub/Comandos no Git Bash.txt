@@ -16,3 +16,4 @@ Enviar commits para o GitHub
 
 adicionar link do repositório a origem - git remote add origin LinkDoRepositório
 enviar o commit para o repositório do GitHub - git push origin master/main
+verificar a origin do repositório - git remote -v
